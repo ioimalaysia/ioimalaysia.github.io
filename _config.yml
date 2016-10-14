@@ -28,3 +28,4 @@ github_username:  jekyll
 markdown: kramdown
 theme: minima
 highlighter: rouge
+permalink: /:categories/:title
