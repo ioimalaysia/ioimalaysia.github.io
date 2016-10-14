@@ -4,3 +4,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+
+# IOIMalaysia
+
+Welcome to IOI Malaysia's web page. Here you can find information about
+MCO, MCC etc..

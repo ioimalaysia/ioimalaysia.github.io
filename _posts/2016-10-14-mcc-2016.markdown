@@ -104,7 +104,7 @@ All participants in MCC 2016 agree to that he or she will:
 During the competition, usage of search engines like [Google][14] and access to all online references like [Python Tutorial][15] are permitted.
 
 ## FAQ
-Please read our[Frequently Asked Questions][16] prior to contacting us for any enquiries.
+Please read our [Frequently Asked Questions][16] prior to contacting us for any enquiries.
 
 ## Contact
 Please direct all inquiries about MCC 2016 via email to `mcc [at] ioimalaysia [dot] org`.
