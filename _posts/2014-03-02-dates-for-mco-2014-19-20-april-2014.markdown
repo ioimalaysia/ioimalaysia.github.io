@@ -9,4 +9,14 @@ categories:
   autoslug: uncategorized
 tags: []
 ---
-**UPDATE:** Please go to [http://ioimalaysia.org/mco-2014/](http://ioimalaysia.org/mco-2014/) for most current info.The Malaysia Computing Olympiad 2014 (MCO 2014) will be held on <span style="line-height: 1.714285714; font-size: 1rem;">**19-20 April 2014** (Saturday-Sunday) at </span>**Wisma JobStreet.com, **27 Lorong Medan Tuanku 1, Off Jalan Sultan Ismail, 50300 Kuala Lumpur.Plan to arrive by 3pm on Saturday for the test session. MCO 2014 should conclude by 4pm on Sunday.Other details are still being finalized -- stay tuned.Official invitation will be sent to all qualified participants via schools at the end of March.
+**UPDATE:** Please go to [http://ioimalaysia.org/mco-2014/][0] for most current info.
+
+The Malaysia Computing Olympiad 2014 (MCO 2014) will be held on **19-20 April 2014** (Saturday-Sunday) at **Wisma JobStreet.com, **27 Lorong Medan Tuanku 1, Off Jalan Sultan Ismail, 50300 Kuala Lumpur.
+
+Plan to arrive by 3pm on Saturday for the test session. MCO 2014 should conclude by 4pm on Sunday.
+
+Other details are still being finalized -- stay tuned.
+
+Official invitation will be sent to all qualified participants via schools at the end of March.
+
+[0]: http://ioimalaysia.org/mco-2014/

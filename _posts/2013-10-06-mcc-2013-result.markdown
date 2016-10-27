@@ -9,4 +9,6 @@ categories:
   autoslug: uncategorized
 tags: []
 ---
-Check out the MCC 2013 results at [http://ioimalaysia.org/mcc-2013](http://ioimalaysia.org/mcc-2013).
+Check out the MCC 2013 results at [http://ioimalaysia.org/mcc-2013][0].
+
+[0]: http://ioimalaysia.org/mcc-2013

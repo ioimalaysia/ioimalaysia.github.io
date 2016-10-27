@@ -6,6 +6,95 @@ wordpress_url: http://beta.ioimalaysia.org/?page_id=127
 categories: []
 tags: []
 ---
-The Asia Pacific Informatics Olympiad (APIO) 2014 was held on 4th May 2014, at Wisma Jobstreet, KL. 12 students were invited to participate, based on their performance on the [MCO 2014](http://ioimalaysia.org/mco-2014/ "MCO 2014").### RESULTS
-Congratulations to the two medal winners from Malaysia! They are:1. How Si Yu, Sunway College, **Silver Medal**2. Yeoh Zi Song, Chung Ling High School, **Bronze Medal**The official results can be found on the official APIO website [here](http://olympiads.kz/apio2014/apio2014_official_results.pdf). The results of the other contestants are as follows.Well done to all the contestants. The 2014 IOI team will be determined based on APIO performance and some further rounds of online contests.<table border="0" width="298" cellspacing="0" cellpadding="0"><colgroup> <col width="32" /> <col width="202" /> <col width="64" /></colgroup><tbody><tr><td width="32" height="21">N</td><td width="202">name</td><td width="64">total</td></tr><tr><td width="32" height="40">1</td><td width="202">Si Yu How</td><td width="64">171</td></tr><tr><td width="32" height="59">2</td><td width="202">Zi Song Yeoh</td><td width="64">73</td></tr><tr><td width="32" height="40">3</td><td width="202">Si Wei How</td><td width="64">57</td></tr><tr><td width="32" height="40">4</td><td width="202">Yun Kai Lim</td><td width="64">23</td></tr><tr><td width="32" height="40">5</td><td width="202">Justin Lim</td><td width="64">23</td></tr><tr><td width="32" height="40">6</td><td width="202">Jia Jen Ng</td><td width="64">23</td></tr><tr><td width="32" height="59">7</td><td width="202">Fu Yong Quah</td><td width="64">23</td></tr><tr><td width="32" height="40">8</td><td width="202">Daniel Lim</td><td width="64">23</td></tr><tr><td width="32" height="59">9</td><td width="202">Kian Boon Lee</td><td width="64">8</td></tr><tr><td width="32" height="59">10</td><td width="202">Yi Chao Ong</td><td width="64">8</td></tr></tbody></table>&nbsp;[caption id="attachment_285" align="aligncenter" width="300"][![IMG_0694](http://ioimalaysia.org/wp-content/uploads/2014/06/IMG_0694-300x300.jpg)](http://ioimalaysia.org/wp-content/uploads/2014/06/IMG_0694.jpg) APIO contestants in action[/caption]
-[![IMG_0693](http://ioimalaysia.org/wp-content/uploads/2014/06/IMG_0693-300x300.jpg)](http://ioimalaysia.org/wp-content/uploads/2014/06/IMG_0693.jpg) [![IMG_0695](http://ioimalaysia.org/wp-content/uploads/2014/06/IMG_0695-300x300.jpg)](http://ioimalaysia.org/wp-content/uploads/2014/06/IMG_0695.jpg)
+The Asia Pacific Informatics Olympiad (APIO) 2014 was held on 4th May 2014, at Wisma Jobstreet, KL. 12 students were invited to participate, based on their performance on the [MCO 2014][0].
+
+### RESULTS
+Congratulations to the two medal winners from Malaysia! They are:
+
+1\. How Si Yu, Sunway College, **Silver Medal
+**2\. Yeoh Zi Song, Chung Ling High School, **Bronze Medal**
+
+The official results can be found on the official APIO website [here][1]. The results of the other contestants are as follows.
+
+Well done to all the contestants. The 2014 IOI team will be determined based on APIO performance and some further rounds of online contests.
+
+
+
+N
+name
+total
+
+
+
+1
+Si Yu How
+171
+
+
+
+2
+Zi Song Yeoh
+73
+
+
+
+3
+Si Wei How
+57
+
+
+
+4
+Yun Kai Lim
+23
+
+
+
+5
+Justin Lim
+23
+
+
+
+6
+Jia Jen Ng
+23
+
+
+
+7
+Fu Yong Quah
+23
+
+
+
+8
+Daniel Lim
+23
+
+
+
+9
+Kian Boon Lee
+8
+
+
+
+10
+Yi Chao Ong
+8
+
+
+
+
+ 
+
+\[caption id="attachment\_285" align="aligncenter" width="300"\][![IMG_0694](http://ioimalaysia.org/wp-content/uploads/2014/06/IMG_0694-300x300.jpg)][2] APIO contestants in action\[/caption\]
+
+[![IMG_0693](http://ioimalaysia.org/wp-content/uploads/2014/06/IMG_0693-300x300.jpg)][3] [![IMG_0695](http://ioimalaysia.org/wp-content/uploads/2014/06/IMG_0695-300x300.jpg)][4]
+
+[0]: http://ioimalaysia.org/mco-2014/ "MCO 2014"
+[1]: http://olympiads.kz/apio2014/apio2014_official_results.pdf
+[2]: http://ioimalaysia.org/wp-content/uploads/2014/06/IMG_0694.jpg
+[3]: http://ioimalaysia.org/wp-content/uploads/2014/06/IMG_0693.jpg
+[4]: http://ioimalaysia.org/wp-content/uploads/2014/06/IMG_0695.jpg
