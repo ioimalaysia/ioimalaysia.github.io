@@ -4,9 +4,7 @@ title: How to Qualify for MCO 2015
 wordpress_id: 274
 wordpress_url: http://ioimalaysia.org/?p=274
 categories:
-- title: Uncategorized
-  slug: uncategorized
-  autoslug: uncategorized
+- mcc
 tags: []
 ---
 MCO 2015 will be held in the first half of 2015\. Actual date and location is to be determined.
@@ -23,4 +21,4 @@ When taking part in the COCI, please use your real name so we can look up your r
 Related: [MCO 2014 report][1]
 
 [0]: http://hsin.hr/coci/
-[1]: http://ioimalaysia.org/competitions/malaysian-computing-olympiad/mco-2014/
+[1]: /mco/mco-2014/

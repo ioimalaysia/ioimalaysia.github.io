@@ -4,11 +4,10 @@ title: How to Qualify for MCO 2014
 wordpress_id: 54
 wordpress_url: http://localhost/mcc/?p=54
 categories:
-- title: Uncategorized
-  slug: uncategorized
-  autoslug: uncategorized
+- mco
 tags: []
 ---
+
 **UPDATE:** Please go to [http://ioimalaysia.org/mco-2014/][0] for most current info.
 
 MCO 2014 will be held in Apr 2014\. Actual date and location is to be determined.
@@ -27,7 +26,7 @@ There are about 20 qualifiers so far, who have qualified via the January contest
 
 For more details, please visit our FB group: [https://www.facebook.com/groups/319725191480376/][3]
 
-[0]: http://ioimalaysia.org/mco-2014/
+[0]: /mco-2014/
 [1]: http://hsin.hr/coci/
 [2]: http://usaco.org/
 [3]: https://www.facebook.com/groups/319725191480376/
