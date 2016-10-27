@@ -6,4 +6,60 @@ wordpress_url: http://ioimalaysia.org/?page_id=316
 categories: []
 tags: []
 ---
-
+## Results
+The results for MCC 2015 are out. View them [here](http://ioimalaysia.org/competitions/malaysian-computing-challenge/mcc-2015/results/ "MCC 2015 Results").## Problems and Solutions
+You can view the problems and solutions for MCC 2015 [here](http://ioimalaysia.org/competitions/malaysian-computing-challenge/mcc-2015/problems-and-solutions/ "MCC 2015 Problems and Solutions").## Important Dates
+- **1 September 2015 (Tuesday)**: [Practice problems](https://www.hackerrank.com/mcc-2015-practice) and [Beginner's Guide](http://ioimalaysia.org/beginners-guide/ "Beginner’s Guide to MCC using Python") available.
+- **18 September 2015 (Friday)**: Deadline for [registration](#registration).
+- **30 September 2015 (Wednesday)**: Deadline for [contestant info](http://bit.ly/mcc-2015-contestant-info) registration. **All contestants** will need to submit this form.
+- **3 October 2015 (Saturday) 10:00am-01:00pm (GMT+8) **: [MCC 2015 Competition](https://www.hackerrank.com/mcc-2015/).
+## Overview
+### What is the MCC?
+The MCC (Malaysian Computing Challenge) is an annual online computing competition. Participants will be required to have some basic programming knowledge in order to solve the problems.### Organizers
+MCC is brought to you by the Malaysian Informatics and Programming Society in collaboration with the Kulliyyah of ICT, International Islamic University Malaysia. See our [About](http://ioimalaysia.org/about) page for more details.### Partner
+[![hackerrank](http://ioimalaysia.org/wp-content/uploads/2015/08/hackerrank.jpeg)](https://www.hackerrank.com/)### Beyond the MCC
+The MCC is the preliminary selection process of a year-long program to identify and train the top programming talents in Malaysian schools. Top scorers in MCC will be:1. Invited to a programming camp, tentatively to be held in December 2015.
+2. Upon successful completion of the camp, to be invited to the Malaysian Computing Olympiad (MCO), a real-time programming competition, to be held tentatively in April 2016.
+The top scorers in MCO will be called for a series of intensive training camps conducted by experienced Olympiad participants. Students who qualify at this level will participate in Asia Pacific Informatics Olympiad (APIO), an annual online contest among countries in the Pacific Rim region. After the training camps and APIO, four students will be selected to represent Malaysia in [International Olympiad in Informatics (IOI)](http://www.ioinformatics.org/) 2016 which will take place in Kazan, Russia in August 2016.## Dates and Venue
+The MCC will take place online on 3 October 2015, from 10:00am to 01:00pm (GMT+8), administered directly at schools. Each school is required to elect a teacher-in-charge to invigilate the competition.## Format
+This year, the MCC will be held on [HackerRank](https://www.hackerrank.com/ "HackerRank"). Participants will be required to solve 5-6 problems over 3 hours. Please note that this year's format is different from previous years - **participants have to submit correct programs to obtain marks**. Sample problems can be viewed on our practice site.1. Please register for an account on HackerRank to access the practice site and the contest. **This has to be done prior to registering for the MCC.**
+2. Each problem consists of some text and some sample test cases.
+3. Participants are to submit a piece of working code (in any of the allowed languages) that can read the input provided by the online judge correctly and output the correct answer.
+4. The code submitted will be checked against test cases. If the code passes all test cases, the participant will be awarded full marks for the problem.
+## Allowed Languages
+Participants may only submit programs written in one of the following programming languages during the contest.1. Python 3 (Recommended for beginners)
+2. Python 2
+3. C
+4. C++
+5. C#
+6. Java
+7. VB.NET
+## Practice Site
+Participants can access problems from MCC 2014 as practice. We have adapted the problems so that it fits the new format.[**MCC 2015 PRACTICE**](https://www.hackerrank.com/mcc-2015-practice)## Beginner's Guide
+Participants can access our MCC Beginner's Guide here.[**Beginner's Guide**](http://ioimalaysia.org/beginners-guide)## Categories and Awards
+There are three categories for the MCC:1. Bongsu / Junior – Form 1, 2, 3, or Primary school
+2. Muda / Intermediate – Form 4, 5
+3. Sulung / Senior – Form 6 (lower &amp; upper), Pre-U (Matriculation, Foundation Studies, IB, A-Levels, etc.).
+All students will take part in the same competition, but prizes will be awarded by category. There will be individual and team prizes. Individual prizes are Gold, Silver, Bronze and Honorable Mention awards. The best performing five students in each category will automatically be in the school’s team. Teams are ranked according to the total of their individual scores. Team prizes are also Gold, Silver, Bronze and Honorable Mention awards. Please consider sending at least five students per category. This would allow your school to qualify for a team prize.## Registration
+### Eligibility
+The MCC is open to all primary, secondary and pre-university students in Malaysia.### Form
+Please read the Overview section above first before you register, as the section contains all the relevant information about MCC 2015. We will only accept online registration. To register, please download the following order form (Excel file):[**MCC 2015 REGISTRATION FORM**](http://bit.ly/mcc-2015-registration-form)Complete the form, and return it (in Excel format) by email to ``mcc-info [at] googlegroups [dot] com`` along with payment of the registration fee. You may keep a printed copy of the form for your official record; it is not necessary to send a hardcopy to us. Your registration is considered complete once we receive the completed form and payment. We will send a confirmation email within 3 working days.In addition, each contestant will need to complete the Contestant Info form.[**MCC 2015 CONTESTANT INFO**](http://bit.ly/mcc-2015-contestant-info)### Fee and Payment Methods
+The registration fee for MCC 2015 is RM 15 per participant, or RM 12 per participant if there are 31 or more participants from one school.#### Payment Method
+You may pay the registration fee via1. Cheque
+2. Money Order
+3. Postal Order
+4. Cash (bank-in or online transfer)
+5. Pesanan Kerajaan / Pesanan Sekolah
+Payment should be sent with the registration form to finalize the registration. If you are sending payment by mail, please address it to **MCC 2015 Secretariat, No. 100-1 Jalan 2/23A, Taman Danau Kota, 53300 Kuala Lumpur**. It is strongly recommended to use courier or registered mail. Please state the school name clearly. Bank account information:<div class="well">Account Name: **PERTUBUHAN INFORMATIK DAN PENGATURCARAAN MALAYSIA**Account Number: **8600213076**Bank: CIMB Islamic Bank (Taman Danau Kota branch). For payment via cash (bank-in or online transfer), please send the proof of transaction by email (``mcc-info [at] googlegroups [dot] com``) or fax to (03-41490572).Note: If you have made payment via our old account number (1432-0000516-10-4), that is fine too.</div>### Independent Participation
+We strongly urge that anyone interested to participate to talk to your school teacher about sending a team. In the case that your school is not sending a team, or you are not currently attached to any school, you may register as an Independent Participant. If you would like to participate as an Independent Participant, please send us an email (``mcc-info [at] googlegroups [dot] com``) with the title “MCC 2015 Independent Participant” with the following information:1. Name
+2. IC number
+3. School name and address
+4. Home address
+5. Contact number
+Please also fill in the Contestant Info form.[**MCC 2015 CONTESTANT INFO**](http://bit.ly/mcc-2015-contestant-info)## Honour Code
+All participants in MCC 2015 agree to that he or she will:- Not discuss the problems with anyone else during the competition time;
+- Neither share solutions nor post solutions online during the competition time;
+- Notify the organizers (``mcc-info [at] googlegroups [dot] com``) immediately if he or she becomes aware of other participants cheating.
+During the competition, usage of search engines like [Google](http://www.google.com) and access to all online references like [Python Tutorial](http://www.tutorialspoint.com/python/) are permitted.## FAQ
+Please read our[ Frequently Asked Questions](http://ioimalaysia.org/competitions/malaysian-computing-challenge/mcc-2015/faq2015/ "FAQ") prior to contacting us for any enquiries.## Contact
+Please direct all inquiries about MCC 2015 via email to ``mcc-info [at] googlegroups [dot] com``.&nbsp;

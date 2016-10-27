@@ -7,16 +7,9 @@ categories: []
 tags: []
 ---
 ### 2016-17 Season Schedule
-
-
-* 1 Oct 2016: Malaysian Computing Competition (MCC) 2016
-
-* Dec 2016: MCO Dec Camp
-
-* Jan, Feb & Mar 2017: MCO Selection Exams
-
-* Apr 2017: Malaysian Computing Olympiad (MCO) 2017
-
-* May 2017: Asia Pacific Informatics Olympiad (APIO) 2017
-
-* 28 July - 4 Aug 2017: International Olympiad in Informatics (IOI) 2017 in Tehran, Iran
+- 1 Oct 2016: Malaysian Computing Competition (MCC) 2016
+- Dec 2016: MCO Dec Camp
+- Jan, Feb & Mar 2017: MCO Selection Exams
+- Apr 2017: Malaysian Computing Olympiad (MCO) 2017
+- May 2017: Asia Pacific Informatics Olympiad (APIO) 2017
+- 28 July - 4 Aug 2017: International Olympiad in Informatics (IOI) 2017 in Tehran, Iran
