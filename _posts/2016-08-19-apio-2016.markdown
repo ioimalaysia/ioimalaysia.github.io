@@ -114,5 +114,5 @@ Philip Searcy
 
 
 [0]: http://www.utar.edu.my/econtent_subtab.jsp?fcatid=1&fcontentid=3927&f2ndcontentid=881
-[1]: http://ioimalaysia.org/competitions/malaysian-computing-olympiad/mco-2016/
+[1]: /mco/mco-2016
 [2]: http://apio2016.org/results/
