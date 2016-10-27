@@ -1,0 +1,10 @@
+---
+layout: post
+title: APIO 2016
+wordpress_id: 938
+wordpress_url: http://ioimalaysia.org/?page_id=938
+categories: []
+tags: []
+---
+The Asia-Pacific Informatics Olympiad (APIO) 2016 was held at [UTAR Sungai Long](http://www.utar.edu.my/econtent_subtab.jsp?fcatid=1&fcontentid=3927&f2ndcontentid=881) on 7 May 2016 (Sat). Top scorers from [MCO 2016](http://ioimalaysia.org/competitions/malaysian-computing-olympiad/mco-2016/) and previous APIO & IOI contestants were invited.## Results
+The official results can be found [here](http://apio2016.org/results/). Congratulations to <b>Yeoh Zi Song</b> for obtaining the <b>silver</b> award. Well done also to other participants:<table><thead></thead><tbody><tr><td></td><td>Name</td><td>Score</td></tr><tr><td>1</td><td>Yeoh Zi Song</td><td>138</td></tr><tr><td>2</td><td>Ang Yee Chin</td><td>56.72</td></tr><tr><td>3</td><td>Yew Jen Khai</td><td>55.45</td></tr><tr><td>4</td><td>Lee Jia Jun</td><td>46.81</td></tr><tr><td>5</td><td>Lew Chen Chang</td><td>46.38</td></tr><tr><td>5</td><td>Ng Jia Jen</td><td>46.38</td></tr><tr><td>7</td><td>Muhammad Nadzrin bin Nor Azilan</td><td>40.3</td></tr><tr><td>8</td><td>Uday Kantilal Patel</td><td>39.38</td></tr><tr><td>9</td><td>Muhammad Raziq Raif</td><td>30.8</td></tr><tr><td>10</td><td>Boo Kai Hsien</td><td>16</td></tr><tr><td>11</td><td>Gan Zhi Wei</td><td>7</td></tr><tr><td>11</td><td>Chia Biing Hann</td><td>7</td></tr><tr><td>11</td><td>Tan Kai Yi</td><td>7</td></tr><tr><td>11</td><td>Chong Onn Keat</td><td>7</td></tr><tr><td>11</td><td>Philip Searcy</td><td>7</td></tr></tbody></table>

@@ -1,0 +1,11 @@
+---
+layout: post
+title: APIO 2015
+wordpress_id: 289
+wordpress_url: http://ioimalaysia.org/?page_id=289
+categories: []
+tags: []
+---
+The Asia-Pacific Informatics Olympiad (APIO) 2015 was held in The Creative Learning &amp; IT Center (CLiC) on May 9, 2015. Top scorers from [MCO 2015](http://ioimalaysia.org/competitions/malaysian-computing-olympiad/mco-2015/), previous IOI and APIO contestants were invited.## Results
+The official results can be found [here](https://drive.google.com/open?id=0BzHUizfmGp9_Nmx6NnhiZVlTV0k). Congratulations to <b>Justin Lim Kai Ze</b> for bagging a bronze medal. Well done also to other participants:<table><thead></thead><tbody><tr><td></td><td>Name</td><td>Score</td></tr><tr><td>1</td><td>Justin Lim Kai Ze</td><td>140</td></tr><tr><td>2</td><td>Lim Yun Kai</td><td>122</td></tr><tr><td>3</td><td>Yew Jen Khai</td><td>79</td></tr><tr><td>4</td><td>Ng Jia Jen</td><td>65</td></tr><tr><td>5</td><td>Yeoh Zi Song</td><td>41</td></tr><tr><td>6</td><td>Uday Kantilal Patel</td><td>36</td></tr><tr><td>6</td><td>Boo Kai Hsien</td><td>36</td></tr><tr><td>6</td><td>Ang Yee Chin</td><td>36</td></tr><tr><td>9</td><td>Lew Chen Chang</td><td>18</td></tr><tr><td>10</td><td>Muhammad Nadzrin bin Nor Azilan</td><td>8</td></tr><tr><td>10</td><td>Eng Ying Xuan</td><td>8</td></tr></tbody></table>## Gallery
+[![APIO 2015 Preparation](http://ioimalaysia.org/wp-content/uploads/2015/05/before-APIO.jpg)](http://ioimalaysia.org/wp-content/uploads/2015/05/before-APIO.jpg)[![APIO 2015 Registration](http://ioimalaysia.org/wp-content/uploads/2015/05/before-APIO-registration.jpg)](http://ioimalaysia.org/wp-content/uploads/2015/05/before-APIO-registration.jpg)[![APIO 2015](http://ioimalaysia.org/wp-content/uploads/2015/05/during-APIO.jpg)](http://ioimalaysia.org/wp-content/uploads/2015/05/during-APIO.jpg)[![APIO 2015](http://ioimalaysia.org/wp-content/uploads/2015/05/after-APIO.jpg)](http://ioimalaysia.org/wp-content/uploads/2015/05/after-APIO.jpg)

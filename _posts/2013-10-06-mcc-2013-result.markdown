@@ -1,0 +1,12 @@
+---
+layout: post
+title: MCC 2013 Result is out
+wordpress_id: 52
+wordpress_url: http://localhost/mcc/?p=52
+categories:
+- title: Uncategorized
+  slug: uncategorized
+  autoslug: uncategorized
+tags: []
+---
+Check out the MCC 2013 results at [http://ioimalaysia.org/mcc-2013](http://ioimalaysia.org/mcc-2013).

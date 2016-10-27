@@ -1,0 +1,21 @@
+---
+layout: post
+title: About
+wordpress_id: 7
+wordpress_url: http://localhost/mcc/?page_id=7
+categories: []
+tags: []
+---
+## Main Organizer
+### Malaysian Informatics and Programming Society (MIPS)
+The MCC is organized by the Malaysian Informatics and Programming Society (MIPS). MIPS is registered as Pertubuhan Informatik dan Pengaturcaraan Malaysia with The Registry of Societies Malaysia (registration no.: PPM-013-14-23022012).[![logo-mips](http://ioimalaysia.org/wp-content/uploads/2013/08/logo-mips-300x105.png)](http://ioimalaysia.org/wp-content/uploads/2013/08/logo-mips.png)<div class="row"><div class="col-md-6">### President
+The President of MIPS is Dr. Ong Shien Jin. He was the Delegation Leader of the Malaysian teams to IOI 2012 (Italy), IOI 2013 (Australia), IOI 2014 (Taiwan), IOI 2015 (Kazakhstan) and IOI 2016 (Russia). He graduated from Massachusetts Institute of Technology (MIT) with a Bachelor's degree in Mathematics, and received his Ph.D. in Computer Science from Harvard University.[caption id="attachment_32" align="alignnone" width="300"][![silvers](http://ioimalaysia.org/wp-content/uploads/2013/03/silvers-300x300.jpg)](http://ioimalaysia.org/wp-content/uploads/2013/03/silvers.jpg) Dr. Ong (center) with the IOI 2013 medallists from Malaysia[/caption]</div><div class="col-md-6">### Secretary
+The Secretary and Founder of MIPS is Mr. Mohd Suhaimi bin Ramly. He was the Deputy Leader of the Malaysian team to IOI 2012 &amp; 2013. He graduated from MIT with a Bachelor's degree in Mathematics. He is involved in several national and international mathematical contests, most recently as the team leader of the Malaysian team to the International Mathematical Olympiad 2015 in Chiang Mai, Thailand. He runs the MCC 2015 Secretariat.[caption id="attachment_32" align="alignnone" width="125"][![msr2-1](http://ioimalaysia.org/wp-content/uploads/2013/08/msr2-1.jpg)](http://ioimalaysia.org/wp-content/uploads/2013/08/msr2-1.jpg) Mr. Mohd Suhaimi bin Ramly[/caption]</div></div>
+---
+## Co-organizer
+### Kulliyyah of ICT, International Islamic University Malaysia
+The MCC is co-organized by the Kulliyyah of ICT, International Islamic University Malaysia (KICT, IIUM). KICT has an excellent track record of promoting and organizing programming contests, being the host of ACM International Collegiate Programming Contest (ICPC) Asia Regional in 2010 and 2011.[![IIUM Full Logo Colour](http://ioimalaysia.org/wp-content/uploads/2013/08/IIUM-Full-Logo-Colour-300x77.jpg)](http://ioimalaysia.org/wp-content/uploads/2013/08/IIUM-Full-Logo-Colour.jpg)### Program Coordinator
+The person in charge of this program is Assoc. Prof. Dr. Normaziah Abdul Aziz. She received her Bachelor in Computer Science from University of South Carolina and Ph.D. from the Department of Artificial Intelligence, University of Edinburgh, Scotland. She led the IIUM team who qualified for the ACM ICPC World Final 2012 in Warsaw, Poland. Presently, she is the Deputy Dean in KICT, IIUM and the ACM ICPC Asia Regional Contest Director for Malaysia.Official website of KICT: [http://www.iium.edu.my/kict/](http://www.iium.edu.my/kict/).
+---
+## Contact Us
+We can be reached at ``mcc [at] ioimalaysia [dot] org``
